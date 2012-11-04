@@ -103,4 +103,4 @@
 
     global.domReady = wrapper;
 
-}).call(this);
+})(this);

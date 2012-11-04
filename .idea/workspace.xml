@@ -43,18 +43,7 @@
       <file leaf-file-name="domReady.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/domReady.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="105" column="14" selection-start="3677" selection-end="3677" vertical-scroll-proportion="3.5539567">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jQuery1.8.2.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery1.8.2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="407" column="33" selection-start="13844" selection-end="13844" vertical-scroll-proportion="0.0">
+            <state line="59" column="48" selection-start="1942" selection-end="1942" vertical-scroll-proportion="-0.9064748">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -307,7 +296,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuery1.8.2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="407" column="33" selection-start="13844" selection-end="13844" vertical-scroll-proportion="0.0">
+        <state line="407" column="33" selection-start="13844" selection-end="13844" vertical-scroll-proportion="-17.243093">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -316,7 +305,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/domReady.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="105" column="14" selection-start="3677" selection-end="3677" vertical-scroll-proportion="3.5539567">
+        <state line="59" column="48" selection-start="1942" selection-end="1942" vertical-scroll-proportion="-0.9064748">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
