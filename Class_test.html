@@ -7,8 +7,20 @@
 
     </style>
     <!--<script type="text/javascript" src="../sea.js"></script>-->
-    <script type="text/javascript" src="Class.js"></script>
+    <script type="text/javascript" src="class.js"></script>
     <script type="text/javascript">
+
+        var count = 0;
+
+        var ready = function () {
+            count++;
+            alert(count);
+        };
+
+        document.addEventListener('DOMContentLoaded', ready);
+        document.addEventListener('DOMContentLoaded', ready);
+        document.addEventListener('DOMContentLoaded', ready);
+/*
         //seajs.use("./Class",function(Class){
 
             var Animal = Class.create({
@@ -72,7 +84,7 @@
             console.log(Student.school);  // 'bj2xiao'
             console.log(student.getAge()); // 22
         //});
-
+*/
         
     </script>
 </head>
